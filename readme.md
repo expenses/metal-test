@@ -1,0 +1,1 @@
+A minimal, single-function example of using the macos metal bindings to write a clear color to a window. Based on https://github.com/gfx-rs/metal-rs/blob/master/examples/circle/main.rs.
